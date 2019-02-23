@@ -5770,4 +5770,10 @@ h2.text-center:after {
         background-image: url('./assets/images/Photo-by-Ben-White-on-Unsplash-mobile.jpg');
     }
 }
+
+.credits{
+    text-align: center;
+    font-size: 12px;
+    color: #ffffff;
+}
 /*# sourceMappingURL=main.faaf51f9.map*/
